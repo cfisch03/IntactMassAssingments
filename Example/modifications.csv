@@ -1,0 +1,14 @@
+Name,ShortName,Experiment,Mass,From,To
+L43 Heavy chain,L43HC,"L43, Intact, L43, Reduced",49214,1,3
+L43 Light chain,L43LC,"L43, Intact, L43, Reduced","22,915",1,3
+RS43 Heavy chain,RS43HC,"RS43, Intact, RS43, Reduced",49214,1,3
+RS43 Light chain,RS43LC,"RS43, Intact, RS43, Reduced","22,915",1,3
+RS1326 Heavy chain,RS1326HC,"RS1326 Intact, RS1326, Reduced","36,708",1,3
+RS1326 Light chain,RS1326LCS,"RS1326 Intact, RS1326, Reduced","49,324",1,3
+PyroGln,pyroGln,All,-17,1,4
+Disulfide,Dis,All,-2,1,10
+Bodipy,By,All,414,1,4
+Lysine Clip,Lys,All,-128,1,2
+G0F Glycosylation,G0F,All,"1,462",1,2
+Hexose,Hex,All,162,1,3
+Fucose,Fuc,All,146,1,3
